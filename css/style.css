@@ -9882,3 +9882,11 @@ background-color: #CAA928;
   .logo-width{
     width: 140px;
   }
+  .first-show-img{
+    background-image:url(../images/photos/profile_6.JPEG);
+  }
+  @media only screen and (max-width: 990px) {
+    .first-show-img {
+      background-image:url(../images/photos/profile_5.JPEG);
+    }
+  }
